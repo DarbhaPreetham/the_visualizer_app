@@ -1,0 +1,17 @@
+{
+    "faq": [
+      {
+        "question": "What is the purpose of this application?",
+        "answer": "The application allows users to convert 2D images into 3D models."
+      },
+      {
+        "question": "Can I choose the quality of the output?",
+        "answer": "Yes, you can choose between low, medium, and high quality."
+      },
+      {
+        "question": "How can I contact support?",
+        "answer": "For support, please email support@example.com or call +123456789."
+      }
+    ]
+  }
+  
